@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\github\led_jewlery\EE\LED_Star_RGB_FPC_Rev_A\LED_Star_RGB_Rev_A.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

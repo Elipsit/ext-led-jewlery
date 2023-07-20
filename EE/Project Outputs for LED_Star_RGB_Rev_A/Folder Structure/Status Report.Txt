@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : PCB Document [LED_Star_RGB_Rev_A.PcbDoc]
+   Generated File[LED_Star_RGB_Rev_A.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:14:51 AM On 4/15/2023

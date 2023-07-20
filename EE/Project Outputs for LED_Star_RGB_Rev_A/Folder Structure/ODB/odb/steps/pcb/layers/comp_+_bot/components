@@ -1,0 +1,12 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 1 1.625 0.197 0 N TP1 TP/Neotestpoint ;0=1,1=0.0000
+TOP 0 1.625374 0.2634922 270 N 32 1 TP1-1
+TOP 1 1.625374 0.1970001 270 N 30 0 TP1-2
+TOP 2 1.624626 0.130508 270 N 31 0 TP1-3
+#

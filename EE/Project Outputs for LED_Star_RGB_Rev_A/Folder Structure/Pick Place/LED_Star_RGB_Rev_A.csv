@@ -1,0 +1,49 @@
+Altium Designer Pick and Place Locations
+C:\github\led_jewlery\EE\LED_Star_RGB_FPC_Rev_A\Project Outputs for LED_Star_RGB_Rev_A\Folder Structure\Pick Place\LED_Star_RGB_Rev_A.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       15/04/23
+Time:       11:14
+Revision:   7e85baa4c47216d93cfd80c946090863b054e661
+Variant:    No variations
+Units used: mm
+
+"Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation"
+"C1","24.8412mm","15.9004mm","TopLayer","200"
+"C5","31.1404mm","36.2204mm","TopLayer","125"
+"C4","51.5620mm","36.2966mm","TopLayer","60"
+"C3","57.6580mm","15.7480mm","TopLayer","345"
+"C2","41.3512mm","3.0480mm","TopLayer","270"
+"TP1","41.2750mm","5.0038mm","BottomLayer","180"
+"LED30","39.9294mm","6.2479mm","TopLayer","295"
+"LED29","38.5356mm","9.0804mm","TopLayer","295"
+"LED28","37.1862mm","11.9122mm","TopLayer","295"
+"LED27","34.5114mm","14.2347mm","TopLayer","350"
+"LED26","31.4392mm","14.7556mm","TopLayer","350"
+"LED25","28.2830mm","15.2873mm","TopLayer","350"
+"LED24","27.8206mm","18.4291mm","TopLayer","225"
+"LED23","29.9796mm","20.7405mm","TopLayer","225"
+"LED22","32.1640mm","23.0265mm","TopLayer","225"
+"LED21","32.8204mm","26.2358mm","TopLayer","280"
+"LED2","44.2636mm","9.3079mm","TopLayer","65"
+"LED20","32.3124mm","29.3092mm","TopLayer","280"
+"LED19","31.7282mm","32.4080mm","TopLayer","280"
+"LED18","34.0682mm","34.4649mm","TopLayer","150"
+"LED17","36.8114mm","32.9663mm","TopLayer","150"
+"LED16","39.5292mm","31.3407mm","TopLayer","150"
+"LED15","43.1358mm","31.3704mm","TopLayer","209"
+"LED14","45.8028mm","32.9452mm","TopLayer","209"
+"LED13","48.4952mm","34.4945mm","TopLayer","209"
+"LED12","50.7781mm","32.2200mm","TopLayer","80"
+"LED11","50.2194mm","29.1466mm","TopLayer","80"
+"LED10","49.6859mm","26.0478mm","TopLayer","80"
+"LED9","51.1697mm","22.4714mm","TopLayer","135"
+"LED8","53.3795mm","20.3378mm","TopLayer","135"
+"LED7","55.4877mm","18.2042mm","TopLayer","135"
+"LED6","54.2123mm","15.2030mm","TopLayer","8"
+"LED5","51.1362mm","14.7609mm","TopLayer","8"
+"LED4","48.0374mm","14.3037mm","TopLayer","8"
+"LED3","45.5590mm","12.1527mm","TopLayer","65"
+"LED1","42.9428mm","6.4885mm","TopLayer","65"

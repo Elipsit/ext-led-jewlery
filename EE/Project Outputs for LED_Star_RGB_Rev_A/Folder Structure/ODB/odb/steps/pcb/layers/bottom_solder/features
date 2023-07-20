@@ -1,0 +1,23 @@
+#Layer_Color=16711935
+#
+#Feature symbol names
+#
+$0 oct68x58x14.5
+
+#
+#Feature attribute names
+#
+@0 .geometry
+@1 .pad_usage
+
+#
+#Feature attribute text strings
+#
+&0 SMD_OctagonX60.0000Y50.0000
+
+#
+#Layer features
+#
+P 1.624626 0.130508 0 P 0 0 ;0=0,1=0
+P 1.625374 0.1970001 0 P 0 0 ;0=0,1=0
+P 1.625374 0.2634922 0 P 0 0 ;0=0,1=0

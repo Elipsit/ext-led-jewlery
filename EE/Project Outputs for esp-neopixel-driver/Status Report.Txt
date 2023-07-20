@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Project [esp-neopixel-driver.PrjPcb]
+   Generated File[esp-neopixel-driver.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:23:43 PM On 5/29/2023
